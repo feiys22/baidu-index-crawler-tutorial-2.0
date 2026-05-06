@@ -1,0 +1,10 @@
+# 在此文件中配置关键词，每行一个
+# 爬取时会用这里的列表覆盖脚本中的默认值
+人工智能
+新能源
+数字经济
+科技创新
+乡村振兴
+
+# 使用方式（脚本启动时读取）：
+# python baidu_index_scrapling.py --keywords-file config/keywords.txt

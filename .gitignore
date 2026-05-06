@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# 爬取数据输出
+output/
+*.csv
+!examples/example_output.csv
+
+# 进度文件
+crawl_progress.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
